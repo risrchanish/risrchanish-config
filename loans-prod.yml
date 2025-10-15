@@ -7,7 +7,7 @@ build:
  
  
 loan:
- message: "Welcome to risrchAnish loans related Prod APIs"
+ message: "Welcome to risrchAnish loans related Production APIs"
  contactDetails: 
   name: "loan_Aish - Product Owner"
   email: "aishh@gmail.com"
