@@ -1,0 +1,15 @@
+
+
+
+build:
+ version: "2.0"
+ 
+ 
+loan:
+ message: "Welcome to risrchAnish loans related QA APIs"
+ contactDetails: 
+  name: "loan_dolly - QA"
+  email: "dolly@gmail.com"
+ onCallSupport: 
+  -(666)666-1234
+  -(666)666-1345

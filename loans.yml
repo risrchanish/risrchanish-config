@@ -1,0 +1,35 @@
+#spring.application.name=loans
+
+
+#server.port=9091
+
+# MYSQL properties
+#spring.datasource.url=jdbc:mysql://localhost:3306/loans
+#spring.datasource.username=root
+#spring.datasource.password=anish123
+
+#JPA Properies
+#spring.jpa.properties.hibernate.dialect=org.hibermate.dialect.MySQLDialect 
+#spring.jpa.hibernate.ddl-auto=update
+#spring.jpa.show-sql=true
+
+
+
+
+
+build:
+ version: "3.0"
+
+
+loan:
+ message: "Welcome to risrchAnish loans related local APIs"
+ contactDetails: 
+  name: "loan_anish - Developer"
+  email: "anish@gmail.com"
+ onCallSupport: 
+  -(555)555-1234
+  -(555)555-1345
+
+  
+
+
