@@ -6,7 +6,7 @@ build:
  
  
 account:
- message: "Welcome to risrchAnish accounts related Production APIs"
+ message: "Welcome to risrchAnish accounts related Prod APIs"
  contactDetails: 
   name: "Aish - Product Owner"
   email: "aishh@gmail.com"
