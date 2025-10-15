@@ -6,7 +6,7 @@ build:
  
  
 card:
- message: "Welcome to risrchAnish card related Prod APIs"
+ message: "Welcome to risrchAnish card related Production APIs"
  contactDetails: 
   name: "card_Aish - Product Owner"
   email: "aishh@gmail.com"
