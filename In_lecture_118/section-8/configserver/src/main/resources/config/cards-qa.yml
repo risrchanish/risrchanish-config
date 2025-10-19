@@ -1,0 +1,16 @@
+
+
+
+build:
+ version: "2.0"
+
+
+
+card:
+  message: "Welcome to risrchAnish cards related QA APIs"
+  contactDetails: 
+   name: "card_dolly - QA"
+   email: "dolly@gmail.com"
+  onCallSupport: 
+   -(666)666-1234
+   -(666)666-1345
